@@ -9,7 +9,7 @@ Make sure this file is located in your websites root because otherwise you can't
 To protect your config data give it some permissions using the commandline.
 
 ```
-chmod 755 config.php
+$ chmod 755 config.php
 ```
 
 ## Subcribe file
